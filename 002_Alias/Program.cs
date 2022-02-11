@@ -18,6 +18,20 @@ namespace Alias
 
             // Задержка.
             Console.ReadKey();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         }
     }
 }
