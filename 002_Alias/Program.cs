@@ -12,6 +12,9 @@ namespace Alias
             // Системный тип данных
             Byte b = 2;
 
+
+
+
             // Вывод значений переменных на экран.
             Console.WriteLine(a);
             Console.WriteLine(b);
